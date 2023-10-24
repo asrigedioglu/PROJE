@@ -1,4 +1,4 @@
-Bir sayının tam bölenlerini hesaplayın
+#Bir sayının tam bölenlerini hesaplayın
 
 def factoring(number):
     factor = []
